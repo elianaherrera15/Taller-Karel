@@ -17,7 +17,6 @@ iniciar-programa
         fin;
     fin;
     inicia-ejecucion
-        { TODO poner codigo aqui }
         mientras frente-libre o izquierda-libre o derecha-libre hacer inicio
         	si frente-libre entonces inicio
         		avanza;
