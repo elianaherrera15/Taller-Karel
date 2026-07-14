@@ -70,7 +70,7 @@ iniciar-programa
 	fin;
 
 inicia-ejecucion
-
+	gira-derecha;
 	orienta-inicio;
 	puertica;
 	apagate;
